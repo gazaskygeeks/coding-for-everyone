@@ -12,7 +12,7 @@ These sessions are suitable for:
 
 - Absolute Beginners (learning HTML,CSS, Github, basic web development);
 
-- GSG full-time [coding bootcamp applicants](https://github.com/gazaskygeeks/bootcamp)
+- GSG full-time [coding bootcamp applicants](https://github.com/gazaskygeeks/coding-for-everyone/blob/master/application.md)
   who want to work together on the programme prerequisites (CodeWars, Javascript,
   READMEs)
 
